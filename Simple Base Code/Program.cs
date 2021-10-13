@@ -7,7 +7,7 @@ namespace Simple_Base_Code
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, Class!");
-            Console.WriteLine("Don't forget to ass your test code here as well.");
+            Console.WriteLine("Don't forget to add your test code here as well.");
         }
     }
 }
